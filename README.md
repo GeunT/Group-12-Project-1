@@ -6,4 +6,4 @@ Project Proposal: Our project is to uncover patterns and trends in AirBnb and/or
 
 Due to data limitations: Edited Proposal is to uncover patterns and trends in AirBnb activity around New York. We’ll examine each borough to see how many listens there are in each, and compare that to the geographical statistics. Because of the excessive amount of data regarding listings and options available, we will find the average price per night for AirBnb in each borough, and answer related questions as we proceed and dive deeper into the data. 
 
-Data:http://insideairbnb.com/get-the-data.html
+AirBnb Data: http://insideairbnb.com/get-the-data.html
